@@ -6,3 +6,8 @@ console.log(textColor);
 //change color of h3
 textColor.computedStyleMap.color = 'orange';
 //could not fix bug
+
+//rendering cards
+let card = ['#cardOne','#cardTwo','cardThree'];
+//log to check
+console.log(card);
