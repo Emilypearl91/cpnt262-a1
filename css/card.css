@@ -1,0 +1,72 @@
+/*card styling*/
+section {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 2rem;
+  
+}
+
+.card {
+  padding: 1rem;
+  margin: 1rem;
+  
+  max-width:60ch;
+  border-radius: 1rem;
+  
+  background-color: black;
+  color: gray;
+  
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+img {
+  max-width:400px;
+  max-height: 400px;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card:hover {
+  background-color: grey;
+  color: black;
+}
+  
+/*contact form card*/
+.contact-card {
+  display: flex;
+  flex-direction: column;
+
+    
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+  margin-top: 3rem;
+  margin-bottom: 2.5rem;
+  max-width:80ch;
+    
+  height: 300px;
+  padding: 1rem;
+  border-radius: 1rem;
+    
+  background-color: black;
+  color: gray;
+    
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+/* blog card content*/
+
+iframe {
+  display: block;
+  margin: auto;
+  max-height:400px;
+  max-width: 400px;
+}

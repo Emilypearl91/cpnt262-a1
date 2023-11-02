@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 310 252.3">
+  <defs>
+    <style>
+      .cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:6px}.cls-2{letter-spacing:-.02588em}.cls-3{fill:#fff;font-family:Arial-Black,&quot;Arial Black&quot;;font-size:12px;font-weight:800;isolation:isolate}
+    </style>
+  </defs>
+  <path d="M0 21.8h307v223" class="cls-1"/>
+  <circle cx="122" cy="146.8" r="102.5" class="cls-1"/>
+  <path d="M258.9 3h27.2v18.8h-27.2V3Z" class="cls-1"/>
+  <g style="isolation:isolate">
+    <text class="cls-3" transform="translate(210.9 43.1)"><tspan x="0" y="0">Bob</tspan><tspan x="25.3" y="0" class="cls-2">’</tspan><tspan x="28.4" y="0">s </tspan></text>
+    <text class="cls-3" transform="translate(210.9 57.5)"><tspan x="0" y="0">Ad</tspan><tspan x="17.3" y="0" class="cls-2">v</tspan><tspan x="24.4" y="0">entu</tspan><tspan x="53.7" y="0" letter-spacing="0em">r</tspan><tspan x="59.2" y="0">es</tspan></text>
+  </g>
+</svg>

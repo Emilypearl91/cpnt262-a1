@@ -1,0 +1,71 @@
+body {
+  line-height: 1.6rem;
+  font-size: 18px;
+  font-family: 'Playfair Display', serif;
+  margin: auto;
+  
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 1.8em;
+  font-family: 'Alfa Slab One', serif;
+
+  text-align: center;
+  margin: 0;
+  padding: 2rem;
+
+  color: white;
+}
+
+h2 {
+  font-family: 'Alfa Slab One', serif;
+  font-size: 26px;
+  line-height: 1.8rem;
+
+  text-align: center;
+  padding-top: 5rem;
+}
+
+h3 {
+  font-family: 'Alfa Slab One', serif;
+  font-size: 20px;
+  line-height: 1.8rem;
+
+  text-align: center;
+}
+
+h4 {
+font-family: 'Alfa Slab One', serif;
+font-size: 18px;
+
+color: white;
+
+line-height: 1.8rem;
+}
+
+h5 h6 {
+  font-family: 'Alfa Slab One', serif;
+font-size: 18px;
+
+color: white;
+
+line-height: 1.8rem;
+}
+
+.card p {
+  max-width: 40ch;
+  text-decoration: none;
+}
+
+/*Paragraph styling on blog post*/
+p {
+  max-width: 80ch ;
+  margin: auto;
+  padding: 1rem;
+ }
+
+ ul {
+  text-align: center;
+  list-style-position: inside;
+ }
